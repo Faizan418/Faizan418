@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align='right' alt='coding' width='400' src='https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952wwzodw2672t344qnpdyngpl2ru03gzs1olikatut&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+<img align='center' alt='coding' width='900' src='https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952wwzodw2672t344qnpdyngpl2ru03gzs1olikatut&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan418&label=Profile%20views&color=0e75b6&style=flat" alt="faizan418" /> </p>
 
