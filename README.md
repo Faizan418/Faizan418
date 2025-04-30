@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952wwzodw2672t344qnpdyngpl2ru03gzs1olikatut&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align='right' alt='coding' width='400' src='https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952wwzodw2672t344qnpdyngpl2ru03gzs1olikatut&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan418&label=Profile%20views&color=0e75b6&style=flat" alt="faizan418" /> </p>
 
@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/muhammad-faizans-projects-8d5be4d1](https://vercel.com/muhammad-faizans-projects-8d5be4d1)
 
-- 💬 Ask me about **I'm a student of Governor Sindh IT Initiative, specializing in Cloud Computing and Generative AI Engineering. I'm also exploring Web 3.0, Metaverse, and programming languages like TypeScript, JavaScript, Next.js, React, Python, HTML, CSS, and database management. Enrolled in SMIT's Web and Mobile App Development and Python Web Mastery programs. I hold a certificate in Cyber Security and Ethical Hacking. English Typing Master with a speed of 50 WPM.**
+- 💬 Ask me about **I'm Student of Governor Sindh IT Initiative Cloud Computing Genrating AI Engineer. Web 3.0 and Metaverse Learning programing || TypeScript || JavaScript || Next.js || react || Database || Python || Html and Css... And I'm Student of 'SMIT' Enroll in Web and Mobile app Devlopment and Python Web Mestry... And I have Certificate of Cyber Security Ethical Hacking... I'm English Typing Master Speed 50 W-P-M ...**
 
 - 📫 How to reach me **muhammadf4060@gmail.com**
-
-- 🕹️ Featured Project: **Snake Game** - A classic Snake Game built with JavaScript, HTML, and CSS, featuring smooth controls, score tracking, and a retro design. Check it out [here](https://vercel.com/muhammad-faizans-projects-8d5be4d1/snake-game) or view the source code on [GitHub](https://github.com/faizan418/snake-game).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,19 +25,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan418&show_icons=true&locale=en&layout=compact" alt="faizan418" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan418&show_icons=true&locale=en" alt="faizan418" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan418&show_icons=true&locale=en" alt="faizan418" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan418&" alt="faizan418" /></p>
