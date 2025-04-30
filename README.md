@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align='center' alt='coding' width='900' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fpresent.readthedocs.io%2Fen%2Flatest%2Fgallery%2Fwelcome-to-coding%2F&psig=AOvVaw1J6mEsbQlwYCaA5bZqXAbV&ust=1746129786256000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiugMHGgI0DFQAAAAAdAAAAABAZ'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan418&label=Profile%20views&color=0e75b6&style=flat" alt="faizan418" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan418" alt="faizan418" /></a> </p>
