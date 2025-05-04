@@ -1,47 +1,107 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<div align="center">
+  <h1>👋 Hey, I'm Muhammad Faizan!</h1>
+  <h3>A Passionate Frontend Developer from Pakistan 🚀</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=440&lines=Building+the+Future+with+Code;Web+3.5+%7C+Metaverse+%7C+AI+Enthusiast;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+</div>
 
-<img align='center' alt='coding' width='900' src='https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif'>
+<div align="center">
+  <img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" alt="Coding GIF" width="600"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan418&label=Profile%20views&color=0e75b6&style=flat" alt="faizan418" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan418" alt="faizan418" /></a> </p>
+### 🌟 About Me
+I'm a tech enthusiast diving deep into **Web 3.5**, **Metaverse**, and **Generative AI** through the **Governor Sindh's I.T Initiative**. I specialize in crafting seamless, user-friendly front-end experiences with tools like **Next.js**, **React+Vite**, **TypeScript**, **JavaScript**, **HTML**, and **CSS**. 
 
-<p align="left"> <a href="https://twitter.com/mfaizan153945" target="blank"><img src="https://img.shields.io/twitter/follow/mfaizan153945?logo=twitter&style=for-the-badge" alt="mfaizan153945" /></a> </p>
+Currently, I'm honing my skills at **S.M.I.T (Saylani Mass I.T. Training)** in **Web & Mobile App Development** and **Python Web Mastery**. With a **Cyber Security & Ethical Hacking** certification under my belt, I’m committed to building secure and innovative digital solutions. 
 
-- 🌱 I’m currently learning **Next.js**
+When I'm not coding, you’ll find me typing at **50 WPM** or exploring the latest tech trends. I’m all about pushing boundaries and creating impactful projects! 💻✨
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/muhammad-faizans-projects-8d5be4d1](https://vercel.com/muhammad-faizans-projects-8d5be4d1)
+---
 
-- 💬 Ask me about **Hey there! I'm a passionate tech enthusiast currently enrolled in the Governor Sindh's I.T Initiative, specializing in Cloud Computing and Generative AI. I’m diving deep into the world of Web 3.5, Metaverse, and cutting-edge technologies like TypeScript, JavaScript, Next.js, React+Vite, Python, and Databases — all while mastering front-end tools like HTML and CSS. I also hold a Cyber Security & Ethical Hacking certification, showcasing my commitment to building secure digital solutions. Currently, I’m a student at S.M.I.T (Saylani Mass I.T. Training), sharpening my skills in Web & Mobile App Development and Python Web Mastery. Besides coding, I’m an expert in English typing, with a speed of 50 WPM, which helps me stay efficient and detail-oriented in all my work. I love learning, building, and pushing the boundaries of what’s possible with tech! 🚀💻**
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizan418&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan418&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan418&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- 📫 How to reach me **muhammadf4060@gmail.com**
+---
 
-- 📄 Know about my experiences [muhammadfaizan.site](muhammadfaizan.site)
+### 🛠️ Tech Stack
+Here’s what I’m working with to build the future:
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" title="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" title="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" title="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" title="Figma"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mfaizan153945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfaizan153945" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadfaizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfaizan" height="30" width="40" /></a>
-<a href="https://fb.com/faizan soomro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizan soomro" height="30" width="40" /></a>
-<a href="https://instagram.com/fazii.963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazii.963" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammadf4060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadf4060" height="30" width="40" /></a>
-<a href="https://discord.gg/1209567481824419923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1209567481824419923" height="30" width="40" /></a>
+---
+
+### 🌱 What I’m Learning
+- **Next.js**: Building scalable and performant web applications.
+- **Generative AI**: Exploring AI-driven creativity and automation.
+- **Web 3.5 & Metaverse**: Diving into decentralized tech and virtual worlds.
+
+---
+
+### 🚀 Projects
+Check out my work on [Vercel](https://vercel.com/muhammad-faizans-projects-8d5be4d1) — from dynamic web apps to innovative front-end solutions, I’m building it all! 
+
+Want to collaborate? Let’s create something extraordinary! ✨
+
+---
+
+### 📬 Get in Touch
+I’m always open to new opportunities, collaborations, or just a chat about tech!
+
+<div align="center">
+  <a href="mailto:muhammadf4060@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadf4060@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/muhammadfaizan"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/mfaizan153945"><img src="https://img.shields.io/badge/Twitter-@mfaizan153945-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://instagram.com/fazii.963"><img src="https://img.shields.io/badge/Instagram-fazii.963-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+  <a href="https://medium.com/@muhammadf4060"><img src="https://img.shields.io/badge/Medium-@muhammadf4060-12100E?style=for-the-badge&logo=medium" alt="Medium"/></a>
+  <a href="https://discord.gg/1209567481824419923"><img src="https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=for-the-badge&logo=discord" alt="Discord"/></a>
+</div>
+
+---
+
+### 📝 Blogs
+Stay tuned for my upcoming tech blogs on [Medium](https://medium.com/@muhammadf4060) where I’ll share insights on coding, AI, and the future of tech! 🚀
+
+---
+
+### 🏆 Achievements
+- Certified in **Cyber Security & Ethical Hacking** 🛡️
+- Active contributor to open-source projects on GitHub 🌍
+- Profile views: <img src="https://komarev.com/ghpvc/?username=faizan418&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faizan418&theme=radical&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🎨 Fun Fact
+I’m a typing wizard with a speed of **50 WPM** and a love for turning complex problems into elegant solutions. Oh, and I’m always up for a coding challenge! 😎
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
+</div>
+
+<p align="center">
+  <i>Code. Create. Inspire.</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan418&show_icons=true&locale=en&layout=compact" alt="faizan418" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan418&show_icons=true&locale=en" alt="faizan418" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan418&" alt="faizan418" /></p>
-    <!-- Snake Game Repo View -->
-    <div align="center">
-      <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-    </div>
