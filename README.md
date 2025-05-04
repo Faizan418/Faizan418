@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRpNGNldG5pN2I2c3Bvbjd2b3RwbTBqYzJrbzN4a3FtdmF0djdjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" alt="Coding GIF" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVhdG12Y3I1c2k4djdjdDJyZGlhM3Q2c2Z3dDJ6a2l5c3Zkb3g0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding GIF" width="700"/>
 </div>
 
 ---
@@ -64,27 +64,26 @@ My projects are live on [Vercel](https://vercel.com/muhammad-faizans-projects-8d
 ---
 
 ### 📡 Connect to the Network
-Ping me for collabs, tech talks, or a code duel! Join my digital grid:
+Plug into my grid for collabs, tech talks, or a coding showdown! Hover for the neon glow:
 
 <div align="center">
   <a href="mailto:muhammadf4060@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhammadf4060@gmail.com-FF0000?style=plastic&logo=gmail&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Email" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-muhammadf4060@gmail.com-FF0000?logo=gmail&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Email" height="50"/>
   </a>
   <a href="https://linkedin.com/in/muhammadfaizan">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan-0A66C2?style=plastic&logo=linkedin&logoColor=white&labelColor=000000&borderColor=00FF00" alt="LinkedIn" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Muhammad%20Faizan-0A66C2?logo=linkedin&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="LinkedIn" height="50"/>
   </a>
   <a href="https://twitter.com/mfaizan153945">
-    <img src="https://img.shields.io/badge/Twitter-@mfaizan153945-1DA1F2?style=plastic&logo=twitter&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Twitter" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-@mfaizan153945-1DA1F2?logo=twitter&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Twitter" height="50"/>
   </a>
   <a href="https://instagram.com/fazii.963">
-    <img src="https://img.shields্র BlackMagic: true
-<img src="https://img.shields.io/badge/Instagram-fazii.963-E4405F?style=plastic&logo=instagram&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Instagram" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-fazii.963-E4405F?logo=instagram&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Instagram" height="50"/>
   </a>
   <a href="https://medium.com/@muhammadf4060">
-    <img src="https://img.shields.io/badge/Medium-@muhammadf4060-12100E?style=plastic&logo=medium&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Medium" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Medium-@muhammadf4060-12100E?logo=medium&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Medium" height="50"/>
   </a>
   <a href="https://discord.gg/1209567481824419923">
-    <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=plastic&logo=discord&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Discord" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Discord-Join%20My%20Server-7289DA?logo=discord&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Discord" height="50"/>
   </a>
 </div>
 
@@ -116,3 +115,4 @@ I type at **50 WPM**, solve problems faster than a quantum computer, and live fo
 <p align="center">
   <i>Code Hard. Hack Smart. Rule the Future.</i>
 </p>
+
