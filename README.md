@@ -5,25 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN3aWFiZGx2d3F5M3J0c3R3c2x0Z3Fha3B5eG5wN3Q5c2w2ZG4zOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcG5abG8wN32/giphy.gif" alt="Matrix Code" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRpNGNldG5pN2I2c3Bvbjd2b3RwbTBqYzJrbzN4a3FtdmF0djdjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" alt="Coding GIF" width="700"/>
 </div>
-
-<style>
-  body {
-    background: url('https://i.giphy.com/media/26xBI73gWqu5dK0Sc/giphy.webp') no-repeat center center fixed;
-    background-size: cover;
-    color: #00FF00;
-    font-family: 'Courier New', monospace;
-  }
-  .neon-text {
-    text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #FF00FF;
-    animation: flicker 1.5s infinite alternate;
-  }
-  @keyframes flicker {
-    0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; }
-    20%, 24%, 55% { opacity: 0.6; }
-  }
-</style>
 
 ---
 
@@ -81,15 +64,28 @@ My projects are live on [Vercel](https://vercel.com/muhammad-faizans-projects-8d
 ---
 
 ### 📡 Connect to the Network
-Ping me for collabs, tech talks, or to challenge me in a code duel!
+Ping me for collabs, tech talks, or a code duel! Join my digital grid:
 
 <div align="center">
-  <a href="mailto:muhammadf4060@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadf4060@gmail.com-FF0000?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://linkedin.com/in/muhammadfaizan"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/mfaizan153945"><img src="https://img.shields.io/badge/Twitter-@mfaizan153945-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
-  <a href="https://instagram.com/fazii.963"><img src="https://img.shields.io/badge/Instagram-fazii.963-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
-  <a href="https://medium.com/@muhammadf4060"><img src="https://img.shields.io/badge/Medium-@muhammadf4060-12100E?style=for-the-badge&logo=medium" alt="Medium"/></a>
-  <a href="https://discord.gg/1209567481824419923"><img src="https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=for-the-badge&logo=discord" alt="Discord"/></a>
+  <a href="mailto:muhammadf4060@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhammadf4060@gmail.com-FF0000?style=plastic&logo=gmail&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Email" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammadfaizan">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan-0A66C2?style=plastic&logo=linkedin&logoColor=white&labelColor=000000&borderColor=00FF00" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://twitter.com/mfaizan153945">
+    <img src="https://img.shields.io/badge/Twitter-@mfaizan153945-1DA1F2?style=plastic&logo=twitter&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Twitter" height="40"/>
+  </a>
+  <a href="https://instagram.com/fazii.963">
+    <img src="https://img.shields্র BlackMagic: true
+<img src="https://img.shields.io/badge/Instagram-fazii.963-E4405F?style=plastic&logo=instagram&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Instagram" height="40"/>
+  </a>
+  <a href="https://medium.com/@muhammadf4060">
+    <img src="https://img.shields.io/badge/Medium-@muhammadf4060-12100E?style=plastic&logo=medium&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Medium" height="40"/>
+  </a>
+  <a href="https://discord.gg/1209567481824419923">
+    <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=plastic&logo=discord&logoColor=white&labelColor=000000&borderColor=00FF00" alt="Discord" height="40"/>
+  </a>
 </div>
 
 ---
@@ -117,6 +113,6 @@ I type at **50 WPM**, solve problems faster than a quantum computer, and live fo
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" style="filter: hue-rotate(90deg);" />
 </div>
 
-<p align="center" class="neon-text">
+<p align="center">
   <i>Code Hard. Hack Smart. Rule the Future.</i>
 </p>
