@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVhdG12Y3I1c2k4djdjdDJyZGlhM3Q2c2Z3dDJ6a2l5c3Zkb3g0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding GIF" width="700"/>
+  <img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" alt="Coding GIF" width="700"/>
 </div>
 
 ---
@@ -64,26 +64,26 @@ My projects are live on [Vercel](https://vercel.com/muhammad-faizans-projects-8d
 ---
 
 ### 📡 Connect to the Network
-Plug into my grid for collabs, tech talks, or a coding showdown! Hover for the neon glow:
+Plug into my grid for collabs, tech talks, or a coding showdown! Hover for the neon surge:
 
 <div align="center">
   <a href="mailto:muhammadf4060@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-muhammadf4060@gmail.com-FF0000?logo=gmail&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Email" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-muhammadf4060@gmail.com-FF0000?logo=gmail&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Email" height="35"/>
   </a>
   <a href="https://linkedin.com/in/muhammadfaizan">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Muhammad%20Faizan-0A66C2?logo=linkedin&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="LinkedIn" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Muhammad%20Faizan-0A66C2?logo=linkedin&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="LinkedIn" height="35"/>
   </a>
   <a href="https://twitter.com/mfaizan153945">
-    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-@mfaizan153945-1DA1F2?logo=twitter&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Twitter" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-@mfaizan153945-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Twitter" height="35"/>
   </a>
   <a href="https://instagram.com/fazii.963">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-fazii.963-E4405F?logo=instagram&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Instagram" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-fazii.963-E4405F?logo=instagram&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Instagram" height="35"/>
   </a>
   <a href="https://medium.com/@muhammadf4060">
-    <img src="https://custom-icon-badges.demolab.com/badge/Medium-@muhammadf4060-12100E?logo=medium&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Medium" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Medium-@muhammadf4060-12100E?logo=medium&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Medium" height="35"/>
   </a>
   <a href="https://discord.gg/1209567481824419923">
-    <img src="https://custom-icon-badges.demolab.com/badge/Discord-Join%20My%20Server-7289DA?logo=discord&logoColor=00FF00&style=for-the-badge&scale=1.5&glow=00FF00" alt="Discord" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Discord-Join%20My%20Server-7289DA?logo=discord&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Discord" height="35"/>
   </a>
 </div>
 
@@ -115,4 +115,3 @@ I type at **50 WPM**, solve problems faster than a quantum computer, and live fo
 <p align="center">
   <i>Code Hard. Hack Smart. Rule the Future.</i>
 </p>
-
